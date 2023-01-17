@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "423269959470",
+    "project_id": "nusicplayer-52271",
+    "storage_bucket": "nusicplayer-52271.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423269959470:android:99dbf1e644fa931b741cbf",
+        "android_client_info": {
+          "package_name": "com.example.onlinemusicplayer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "423269959470-mi1l67pkec56cpobacp7a86uvp3oidgm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDw8tV6sYJXmtuGbocJPfHsYBc4OBTAWC4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "423269959470-mi1l67pkec56cpobacp7a86uvp3oidgm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
